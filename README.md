@@ -1,4 +1,4 @@
-![HackaTAL 2019](https://raw.githubusercontent.com/HackaTAL/2019/gh-pages/Hackathon_CORIA-TALN_2019.gif)
+![HackaTAL 2019](https://raw.githubusercontent.com/HackaTAL/2019/gh-pages/HackaTAL_2019.gif)
 
 # Grand Débat & Legal Techs
 
