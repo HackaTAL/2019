@@ -2,7 +2,7 @@
 
 # Grand Débat & Legal Techs
 
-## HackaTAL 2019 (PFIA)
+## HackaTAL 2019
 ---------------
 *(hackathon en traitement automatique des langues)*
 
