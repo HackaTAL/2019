@@ -12,7 +12,7 @@ Tâches : analyses du grand débat / chatbots juridiques
 Site web : http://hackatal.github.io/2019  
 Dates : 1 et 2 juillet 2019  
 Lieu : Capitole, Toulouse  
-Inscription (gratuite pour les étudiants) : https://forms.gle/eNo8rogN2fWE3xedA
+Inscription (gratuite pour les étudiants) : https://forms.gle/eNo8rogN2fWE3xedA  
 Fil twitter : https://twitter.com/hashtag/HackaTAL2019  
 
 ### Le HackaTAL
