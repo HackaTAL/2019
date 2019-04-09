@@ -1,55 +1,67 @@
 ![HackaTAL 2019](https://raw.githubusercontent.com/HackaTAL/2019/gh-pages/HackaTAL_2019.gif.new)
 
-# Grand Débat & Legal Techs
+# Grand Débat // Legal Tech
 
 ## HackaTAL 2019
 ---------------
-*(hackathon en traitement automatique des langues)*
+*(hackathon en traitement automatique des langues)*  
+dans le cadre de la conférence TALN/PFIA 2019
 
 ### Résumé
 
-Tâches : analyses du grand débat national / chatbots juridiques  
+Tâches : analyses du grand débat / chatbots juridiques  
 Site web : http://hackatal.github.io/2019  
 Dates : 1 et 2 juillet 2019  
-Lieu : Capitole, Toulouse  
-Inscription (obligatoire, gratuite pour les étudiants) : https://forms.gle/2mLcLbYkbGNqdo2HA  
+Lieu : Université Toulouse 1 Capitole  
+Inscription (gratuit pour les étudiants / doctorants) : https://forms.gle/eNo8rogN2fWE3xedA  
 Fil twitter : https://twitter.com/hashtag/HackaTAL2019  
 
 ### Le HackaTAL
 
-Dans le cadre de la conférence TALN 2019 au sein de la plateforme PFIA, nous organisons la 4ème édition du hackathon en traitement automatique des langues (HackaTAL). L’objectif est de réunir les communautés scientifiques TAL, IA et au delà, autour de défis à relever, pour modéliser, prototyper, coder, expérimenter, développer, tester, évaluer, échanger, etc. - par équipes, dans une ambiance dynamique, et sympathique :) !
+Dans le cadre de la conférence TALN 2019 au sein de la plateforme PFIA, nous organisons la 4ème édition du hackathon en traitement automatique des langues, le HackaTAL 2019. L’objectif est de réunir les communautés scientifiques TAL, IA, et très largement au delà, autour de défis à relever pour questionner, interroger, modéliser, prototyper, coder, expérimenter, développer, tester, évaluer, échanger, etc. - par équipes, dans une ambiance dynamique et sympathique :)
 
-Les tâches proposées portent cette année sur deux thématiques : des analyses des contributions au grand débat national, la conception de chatbots dans le domaine juridique.
+Les tâches proposées portent cette année sur deux thématiques (détails ci-dessous) :
+- analyses des contributions au grand débat national
+- conception de chatbots pour le domaine juridique
 
-L’événement aura lieu cette année avec TALN au sein de la conférence PFIA (https://www.irit.fr/pfia2019), à Toulouse, les 1 et 2 juillet 2019. Il est ouvert à tous (informaticiens, linguistes, analystes politiques, juristes) et ne nécessite aucune préparation particulière ni de compétences spécifiques... tout le monde est bienvenu !
+L’événement aura lieu cette année avec PFIA (https://www.irit.fr/pfia2019), à l’université Toulouse 1 Capitole, les 1 et 2 juillet 2019. Il est très largement ouvert à tous : juniors et séniors, informaticiens, linguistes, analystes politiques, juristes, sociologues, etc. et ne nécessite aucune préparation particulière ni de compétences spécifiques... toute personne intéressée est bienvenue  pour apporter sa contribution aux travaux collaboratifs (par équipes) que nous réaliserons sur ces deux jours !
 
-### Tâches proposées
+### Défis proposés
 
 **1. Analyses du grand débat national**
 
-L’instauration par le gouvernement du « grand débat national » a donné lieu à la mise en place de plateformes contributives, sur lesquelles les citoyens peuvent donner leurs avis en réponse à des questions et/ou selon des thématiques. La mise à disposition de ces données ouvertes permet de constituer un corpus volumineux sur lequel des analyses peuvent être conduites, à l’aide d’outils TAL. Les tâches portent plus particulièrement sur les analyses de la nature argumentative des contributions.
+Le « grand débat national » instauré par le gouvernement début 2019 s’est matérialisée par la mise en place de dispositifs contributifs (sites, réunions, cahiers de doléances), par lesquels les citoyens peuvent donner leurs avis en réponse à des questions, et/ou selon des thématiques. L’ouverture des données produites a donné lieu à la constitution d’un corpus volumineux, sur lequel des analyses peuvent être conduites, en particulier par utilisation d’outils de traitement de la langue ou d’analyse du discours. Les tâches sont très ouvertes, nous proposons en particulier une orientation sur la génération et la nature argumentative des contributions.
 
 *Tâches*
 
 - quantifier, analyser et visualiser les contributions au grand débat national
-	- proposer des analyses sémantiques ou du discours sur ces contributions
-	- repérer des arguments dans les contributions du grand débat
-- reconstituer des argumentations à partir de sacs
-	- sacs de mots => retrouver la phrase
-	- sacs de propositions => argumentation
-- résumer des contributions
-	- ensemble de contributions => résumé (abstractif ou extractif)
+  - proposer des analyses sémantiques ou discursives des contributions
+  - repérer et extraires des arguments structurés dans les contributions du grand débat
+- générer des contributions ou des arguments (à préciser)
+  - générer une proposition (phrase) à partir d’indices (mots, thème, opinion)
+  - générer une contribution argumentative à partir d’un ensemble de propositions
+  - générer un résumé à partir d’un ensemble de contributions
+  - générer une contribution avec une contrainte de style (« à la manière de »)
 
 *Ressources*
 
 - Jeu de données
-	- https://www.data.gouv.fr/fr/datasets/donnees-ouvertes-du-grand-debat-national/
-	- https://granddebat.fr/pages/donnees-ouvertes 
-- API GraphQL: https://granddebat.fr/developer 
+  - https://www.data.gouv.fr/fr/datasets/donnees-ouvertes-du-grand-debat-national
+  - https://granddebat.fr/pages/donnees-ouvertes
+- Autres sites contributifs (à compléter)
+  - Vrai Débat : https://le-vrai-debat.fr
+  - Entendre la France : https://www.entendrelafrance.fr
+- API GraphQL: https://granddebat.fr/developer
 - Analyses existantes
-	- Annotations collaboratives du grand débat: https://grandeannotation.fr/ et https://github.com/fm89/granddebat 
-	- Projet Grande Lecture (pour éviter les bulles de filtre) : génération aléatoire de cartes de 100 contributions par circonscriptions : http://www.grande-lecture.fr/ 
-	- Analyse de Vincent Claveau: http://people.irisa.fr/Vincent.Claveau/GrandDebat/ 
+  - Observatoire des débats (GIS Démocratie et Participation, ICPC, CEVIPOF) https://observdebats.hypotheses.org
+  - Cartographies : Cartolabe (INRIA,  Paris-Saclay, CNRS) https://cartolabe-dev.lri.fr/map/debatt et Politoscope (CNRS) https://politoscope.org/le-politoscope
+  - Annotations collaboratives du grand débat: https://grandeannotation.fr  et https://github.com/fm89/granddebat 
+  - Projet Grande Lecture (bulles de filtre) : cartes de 100 contributions par circonscription http://www.grande-lecture.fr
+  - Witted http://gdn.witted.tech
+  - Democratie.app https://www.democratie.app
+  - Damien Nouvel http://damien.nouvels.net/fr/debats2019
+  - Vincent Claveau http://people.irisa.fr/Vincent.Claveau/GrandDebat
+  - Les Gilets Jaunes (LERASS) https://www.lerass.com/wp-content/uploads/2019/02/GJ-V3.pdf
 
 
 **2. Chatbots juridiques**
@@ -67,6 +79,19 @@ L’essor indéniable et simultané des agents conversationnels (chatbots) d’u
 	- les entités (sociétés) en jeu
 	- parties du contrat présentant des risques, de possibles incohérences ou anomalies
 
+*Ressources*
+
+- Droit du numérique : http://www.adij.fr/code-activites-du-numerique-contributions
+- Droits quotidiens : les fiches en langage juridique clair de  https://www.droitsquotidiens.fr/fr et https://www.droitsquotidiens.be/fr
+- Module de création d’assistant juridique (Seraphin.legal) https://www.legaltech.store/categoriesproduits/legal-bots
+- Technologies  du réseau Legal Tech Lawyer disponibles pendant le hackathon https://www.legaltech.store
+- Projet de chatbot juridique : https://leeally.com/fr
+- Données et contenus juridiques https://www.data.gouv.fr
+
+### Prix
+
+Des prix seront décernés aux meilleures équipes (par vote des participants et organisateurs)
+
 ### Planning prévisionnel
 
 Lundi 1er juillet
@@ -75,7 +100,7 @@ Lundi 1er juillet
 - 14h-15h : présentation du hackathon
 - 15h-18h : développements en équipes
 - 18h-19h : présentations invitées
-- 19h- : (à confirmer) buffet et développements
+- 19h- : cocktail, buffet, développements
 
 Mardi 2 juillet
 
@@ -89,19 +114,25 @@ Mardi 2 juillet
 
 BYOD (amenez votre ordinateur)  
 Pas de critères pour participer, le hackathon est ouvert à tous !  
-Aucune préparation requise des participants en amont de l’évènement  
+Aucune préparation requise des participants  
 Logiciels et données en ligne : https://github.com/HackaTAL/2019  
 
-### Organisateurs (TBC)
+### Organisateurs
 
 Julien Aligon (IRIT)  
+Sébastien Beghelli (SAP)  
 Manon Cassier (AGORA)  
+Chloé Clavel (Télécom ParisTech)  
 Kevin Deturck (Viseo / ERTIM)  
 Nicolas Dugué (LIUM)  
-Loïc Grobol (LATTICE)  
+Maud Gilet (Seraphin.legal)  
+Gibran Freitas (Seraphin.legal)  
+Loïc Grobol (Lattice)  
+Charles Leconte (Seraphin.legal)  
 Hugues de Mazancourt (YSEOP)  
 Damien Nouvel (ERTIM)  
 Camille Pradel (Synapse)  
-Thomas Saint-Aubin (Seraphin)  
+Paul Renvoise (SAP)  
+Thomas Saint-Aubin (Seraphin.legal)  
 Raphaël Troncy (EURECOM)  
 Guillaume Wisniewski (LIMSI)  
