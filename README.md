@@ -21,6 +21,7 @@ Fil twitter : https://twitter.com/hashtag/HackaTAL2019
 Dans le cadre de la conférence TALN 2019 au sein de la plateforme PFIA, nous organisons la 4ème édition du hackathon en traitement automatique des langues, le HackaTAL 2019. L’objectif est de réunir les communautés scientifiques TAL, IA, et très largement au delà, autour de défis à relever pour questionner, interroger, modéliser, prototyper, coder, expérimenter, développer, tester, évaluer, échanger, etc. - par équipes, dans une ambiance dynamique et sympathique :)
 
 Les tâches proposées portent cette année sur deux thématiques (détails ci-dessous) :
+
 - analyses des contributions au grand débat national
 - conception de chatbots pour le domaine juridique
 
