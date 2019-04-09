@@ -5,7 +5,7 @@
 ## HackaTAL 2019
 ---------------
 *(hackathon en traitement automatique des langues)*  
-dans le cadre de la conférence TALN/PFIA 2019
+avec la conférence TALN/PFIA 2019
 
 ### Résumé
 
@@ -13,12 +13,12 @@ Tâches : analyses du grand débat / chatbots juridiques
 Site web : http://hackatal.github.io/2019  
 Dates : 1 et 2 juillet 2019  
 Lieu : Université Toulouse 1 Capitole  
-Inscription (gratuit pour les étudiants / doctorants) : https://forms.gle/eNo8rogN2fWE3xedA  
+Inscription (gratuit pour les étudiants et doctorants) : https://forms.gle/eNo8rogN2fWE3xedA  
 Fil twitter : https://twitter.com/hashtag/HackaTAL2019  
 
 ### Le HackaTAL
 
-Dans le cadre de la conférence TALN 2019 au sein de la plateforme PFIA, nous organisons la 4ème édition du hackathon en traitement automatique des langues, le HackaTAL 2019. L’objectif est de réunir les communautés scientifiques TAL, IA, et très largement au delà, autour de défis à relever pour questionner, interroger, modéliser, prototyper, coder, expérimenter, développer, tester, évaluer, échanger, etc. - par équipes, dans une ambiance dynamique et sympathique :)
+Dans le cadre de la conférence TALN 2019 au sein de la plateforme PFIA, nous organisons la 4ème édition du hackathon en traitement automatique des langues, le HackaTAL 2019. L’objectif est de réunir les communautés scientifiques TAL, IA, et très largement au delà, autour de défis à relever pour questionner, interroger, modéliser, prototyper, coder, expérimenter, développer, tester, évaluer, échanger, etc. par équipes, dans une ambiance dynamique et sympathique :)
 
 Les tâches proposées portent cette année sur deux thématiques (détails ci-dessous) :
 
@@ -37,7 +37,7 @@ Le « grand débat national » instauré par le gouvernement début 2019 s’est
 
 - quantifier, analyser et visualiser les contributions au grand débat national
   - proposer des analyses sémantiques ou discursives des contributions
-  - repérer et extraires des arguments structurés dans les contributions du grand débat
+  - repérer et extraire des arguments structurés dans les contributions du grand débat
 - générer des contributions ou des arguments (à préciser)
   - générer une proposition (phrase) à partir d’indices (mots, thème, opinion)
   - générer une contribution argumentative à partir d’un ensemble de propositions
@@ -60,25 +60,24 @@ Le « grand débat national » instauré par le gouvernement début 2019 s’est
   - Projet Grande Lecture (bulles de filtre) : cartes de 100 contributions par circonscription http://www.grande-lecture.fr
   - Witted http://gdn.witted.tech
   - Democratie.app https://www.democratie.app
-  - Damien Nouvel http://damien.nouvels.net/fr/debats2019
-  - Vincent Claveau http://people.irisa.fr/Vincent.Claveau/GrandDebat
-  - Les Gilets Jaunes (LERASS) https://www.lerass.com/wp-content/uploads/2019/02/GJ-V3.pdf
+  - Grand Débat et TAL (Vincent Claveau) http://people.irisa.fr/Vincent.Claveau/GrandDebat et (Damien Nouvel) http://damien.nouvels.net/fr/debats2019
+  - Gilets Jaunes (LERASS) https://www.lerass.com/wp-content/uploads/2019/02/GJ-V3.pdf
 
 
 **2. Chatbots juridiques**
 
-L’essor indéniable et simultané des agents conversationnels (chatbots) d’une part et de l’utilisation d’outils numériques et technologiques dans le domaine du juridique (LegalTech) permet aujourd’hui d’envisager le développement d’agents répondant à des questions dans ce domaine. Les tâches proposées vise la mise en place d’infrastructures de dialogue permettant de répondre à des questions, pour des particuliers selon des problématiques liées à la vie courante, ou pour des entreprises à partir de l'analyse automatique de contrats.
+Depuis quelques années, la mise en place d’agents conversationnels (chatbots) par de nombreuses entreprises est une tendance de fond (et déjà sujet du HackaTAL en 2016, https://hackatal.github.io/2016). En parallèle, les outils numériques et technologiques sont toujours plus utilisés dans le domaine juridique (LegalTech). Ces deux évolutions technologiques permettent aujourd’hui d’envisager le développement d’agents répondant à des questions sur des problématiques juridiques. Les tâches proposées visent le prototypage, voire la mise en place (démos) de telles infrastructures de dialogue à partir de ressources, soit pour des problématiques liées à la vie courante des citoyens (recherche d’informations juridiques) ou dans un contexte d’analyse de contrats pour des entreprises.
 
 *Tâches*
 
-- agent conversationnel grand public pour guider une recherche d’informations juridiques
-	- domaine du litige
-	- références (lien) vers des textes de loi concernés
-	- instances et procédures adéquates pour résoudre le litige
-- agent pour répondre à des questions sur des contrats juridiques, par exemple :
-	- les dates de début / fin de contrat
-	- les entités (sociétés) en jeu
-	- parties du contrat présentant des risques, de possibles incohérences ou anomalies
+- agent qui aide à la recherche d’informations juridiques
+    - détermination du domaine du litige
+    - proposition de références (liens) vers des textes de loi pertinents
+    - recherche de la procédure adéquate pour la résolution du problème
+- agent qui répond à des questions sur des contrats juridiques
+    - dates de début / fin de contrat
+    - entités juridiques mentionnées (sociétés, entités administratives)
+    - repérage des parties du contrat présentant des risques, incohérences ou anomalies
 
 *Ressources*
 
@@ -91,25 +90,25 @@ L’essor indéniable et simultané des agents conversationnels (chatbots) d’u
 
 ### Prix
 
-Des prix seront décernés aux meilleures équipes (par vote des participants et organisateurs)
+Des prix seront décernés aux meilleures équipes (vote des participants et organisateurs)
 
 ### Planning prévisionnel
 
-Lundi 1er juillet
+**Lundi 1er juillet**
 
 - 13h-14h : accueil et café
-- 14h-15h : présentation du hackathon
+- 14h-15h : introduction, présentation du hackathon
 - 15h-18h : développements en équipes
 - 18h-19h : présentations invitées
-- 19h- : cocktail, buffet, développements
+- 19h- : cocktail, buffet, développements en équipes
 
-Mardi 2 juillet
+**Mardi 2 juillet**
 
 - 09h-12h : accueil, café, développements en équipes
 - 12h-14h : déjeuner et café
 - 14h-16h : développements en équipes
-- 16h-18h : présentation des résultats
-- 18h-19h : conclusion
+- 16h-18h : présentation des résultats par équipe
+- 18h-19h : vote, remise des prix, conclusion
 
 ### Organisation pratique
 
@@ -129,6 +128,7 @@ Nicolas Dugué (LIUM)
 Maud Gilet (Seraphin.legal)  
 Gibran Freitas (Seraphin.legal)  
 Loïc Grobol (Lattice)  
+Didier Ketels (Droits Quotidiens)
 Charles Leconte (Seraphin.legal)  
 Hugues de Mazancourt (YSEOP)  
 Damien Nouvel (ERTIM)  
