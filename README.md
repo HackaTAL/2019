@@ -1,4 +1,4 @@
-![HackaTAL 2019](https://raw.githubusercontent.com/HackaTAL/2019/gh-pages/HackaTAL_2019.png =768x)
+![HackaTAL 2019](https://raw.githubusercontent.com/HackaTAL/2019/gh-pages/HackaTAL_2019.png)
 
 # Grand Débat // Legal Tech
 
