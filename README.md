@@ -25,7 +25,7 @@ Les tâches proposées portent cette année sur deux thématiques (détails ci-d
 - analyses des contributions au grand débat national
 - conception de chatbots pour le domaine juridique
 
-L’événement aura lieu cette année avec PFIA (https://www.irit.fr/pfia2019), à l’université Toulouse 1 Capitole, les 1 et 2 juillet 2019. Il est très largement ouvert à tous : juniors et séniors, informaticiens, linguistes, analystes politiques, juristes, sociologues, etc. et ne nécessite aucune préparation particulière ni de compétences spécifiques... toute personne intéressée est bienvenue  pour apporter sa contribution aux travaux collaboratifs (par équipes) que nous réaliserons sur ces deux jours !
+L’événement aura lieu cette année avec PFIA (https://www.irit.fr/pfia2019), à l’université Toulouse 1 Capitole, les 1 et 2 juillet 2019. Il est très largement ouvert à tous : juniors et séniors, informaticiens, linguistes, politologues, juristes, sociologues, etc. et ne nécessite aucune préparation particulière ni de compétences spécifiques... toute personne intéressée est bienvenue  pour apporter sa contribution aux travaux collaboratifs (par équipes) que nous réaliserons sur ces deux jours !
 
 ### Défis proposés
 
@@ -128,7 +128,7 @@ Nicolas Dugué (LIUM)
 Maud Gilet (Seraphin.legal)  
 Gibran Freitas (Seraphin.legal)  
 Loïc Grobol (Lattice)  
-Didier Ketels (Droits Quotidiens)
+Didier Ketels (Droits Quotidiens)  
 Charles Leconte (Seraphin.legal)  
 Hugues de Mazancourt (YSEOP)  
 Damien Nouvel (ERTIM)  
