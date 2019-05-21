@@ -120,7 +120,6 @@ Logiciels et données en ligne : https://github.com/HackaTAL/2019
 ### Organisateurs
 
 Julien Aligon (IRIT)  
-Sébastien Beghelli (SAP)  
 Manon Cassier (AGORA)  
 Chloé Clavel (Télécom ParisTech)  
 Kevin Deturck (Viseo / ERTIM)  
@@ -133,7 +132,6 @@ Charles Leconte (Seraphin.legal)
 Hugues de Mazancourt (YSEOP)  
 Damien Nouvel (ERTIM)  
 Camille Pradel (Synapse)  
-Paul Renvoise (SAP)  
 Thomas Saint-Aubin (Seraphin.legal)  
 Raphaël Troncy (EURECOM)  
 Guillaume Wisniewski (LIMSI)  
