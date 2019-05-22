@@ -107,8 +107,8 @@ Des prix seront décernés aux meilleures équipes (vote des participants et org
 - 09h-12h : accueil, café, développements en équipes
 - 12h-14h : déjeuner et café
 - 14h-16h : développements en équipes
-- 16h-18h : présentation des résultats par équipe
-- 18h-19h : vote, remise des prix, conclusion
+- 16h-17h : présentation des résultats par équipe
+- 17h-18h : vote, remise des prix, conclusion
 
 ### Organisation pratique
 
