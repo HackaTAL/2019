@@ -66,18 +66,29 @@ Le « grand débat national » instauré par le gouvernement début 2019 s’est
 
 **2. Chatbots juridiques**
 
-Depuis quelques années, la mise en place d’agents conversationnels (chatbots) par de nombreuses entreprises est une tendance de fond (et déjà sujet du HackaTAL en 2016, https://hackatal.github.io/2016). En parallèle, les outils numériques et technologiques sont toujours plus utilisés dans le domaine juridique (LegalTech). Ces deux évolutions technologiques permettent aujourd’hui d’envisager le développement d’agents répondant à des questions sur des problématiques juridiques. Les tâches proposées visent le prototypage, voire la mise en place (démos) de telles infrastructures de dialogue à partir de ressources, soit pour des problématiques liées à la vie courante des citoyens (recherche d’informations juridiques) ou dans un contexte d’analyse de contrats pour des entreprises.
+Depuis quelques années, la mise en place d’agents conversationnels (chatbots) par de nombreuses entreprises est une tendance de fond (et déjà sujet du HackaTAL en 2016, https://hackatal.github.io/2016). En parallèle, les outils numériques et technologiques sont toujours plus utilisés dans le domaine juridique (LegalTech). 
+
+Ces deux évolutions technologiques permettent aujourd’hui d’envisager le développement d’agents répondant à des questions sur des problématiques juridiques. Les tâches proposées visent le prototypage, voire la mise en place (démos) de telles infrastructures de dialogue à partir de ressources, soit pour des problématiques liées à la vie courante des citoyens (recherche d’informations juridiques) ou dans un contexte de besoin de droit des innovateurs numériques, comme les participants d'un hackathon. 
+
+En l'état, comme l'a démontré le premier baromètre sur l'accès au droit du Conseil National des Barreaux, l'émergence de la Legaltech n'a pas encore réellement permis de répondre de renforcer l'accès au droit et à la justice des français.  Le dernier écrivain public vient de prendre sa retraite, il est temps d'utiliser la technologie et les TAL pour fournir un assistant juridique virtuel pour les droits quotidiens des français. 
+
+Lors du hackathon, 2 défis seront proposés :
+
+- A partir des cas d'usages rencontrés par les acteurs de terrain de la médiation numérique (https://lamednum.coop) en matière d'accès au droit et avec les ressources mises à disposition par les partenaires du hackathon, créer un chatbot "écrivain public"
+- À partir des cas d'usage rencontrés par les acteurs de l'innovation numérique et des ressources mises à disposition par les partenaires du hackathon, créer un chatbot sur les thématiques du droit des données et de la propriété intellectuelle. Ce deuxième défi trouvera une suite dans le Legal Hackathon organisé par l'ADIJ en septembre 2019 pour la création d'un code des activités numériques (http://www.adij.fr/code-activites-du-numerique-contributions/)
 
 *Tâches*
 
-- agent qui aide à la recherche d’informations juridiques
-    - détermination du domaine du litige
-    - proposition de références (liens) vers des textes de loi pertinents
-    - recherche de la procédure adéquate pour la résolution du problème
-- agent qui répond à des questions sur des contrats juridiques
-    - dates de début / fin de contrat
-    - entités juridiques mentionnées (sociétés, entités administratives)
-    - repérage des parties du contrat présentant des risques, incohérences ou anomalies
+- agent qui aide à la recherche d’informations juridiques et à la fourniture d'une information juridique personnalisée sur des besoins de la vie quotidienne (personnes en situation de handicap, parents isolés, droit de la famille, logement...)
+  - détermination du besoin en droit en langage naturel
+  - apporter un premier niveau de réponse à partir de réponses programmées à l'avance (par transformation dynamique de FAQ / forum en arbre décisionnel)
+  - fournir des propositions de références (liens) vers des textes de loi pertinents et fournir un service de traduction automatisée de ces références juridiques en langage juridique "clair"
+  - générer un modèle de courrier pour saisir l'administration et fournir les coordonnées du guichet administratif compétent
+- agent qui répond à des questions des acteurs de l'innovation numérique pour développer un projet dans le respect du droit positif
+  - détermination du cadre juridique applicable en fonction du projet
+  - fournir proposition de références juridiques  (liens) et un service  de création d'un panier pour regrouper le droit applicable à la création d'un projet
+  - fournir proposition de références juridiques  (liens) et un service d'aide à la mise en conformité via la détection de tâches à effectuer ( notamment sur le RGPD et le respect de la propriété intellectuelle des tiers)
+  - générer des documents juridiques à partir des réponses aux questions du chatbot (voir par exemple https://app.aboutinnovation.com/Generateur-CGU, création d'un règlement de hackathon, aide aux choix des licences libres et ouvertes)
 
 *Ressources*
 
@@ -90,22 +101,22 @@ Depuis quelques années, la mise en place d’agents conversationnels (chatbots)
 
 ### Prix
 
-Des prix seront décernés aux meilleures équipes (vote des participants et organisateurs)
+Un panier de spécialités toulousaines (liquides et solides) sera offert aux meilleures équipes (vote des participants et organisateurs)
 
 ### Planning prévisionnel
 
 **Lundi 1er juillet**
 
-- 13h-14h : accueil et café
+- 13h-14h : accueil et café (PFIA)
 - 14h-15h : introduction, présentation du hackathon
 - 15h-18h : développements en équipes
 - 18h-19h : présentations invitées
-- 19h- : cocktail, buffet, développements en équipes
+- 19h- : cocktail (PFIA) développements en équipes
 
 **Mardi 2 juillet**
 
-- 09h-12h : accueil, café, développements en équipes
-- 12h-14h : déjeuner et café
+- 09h-12h : accueil, café (PFIA), développements en équipes
+- 12h-14h : déjeuner et café (PFIA)
 - 14h-16h : développements en équipes
 - 16h-17h : présentation des résultats par équipe
 - 17h-18h : vote, remise des prix, conclusion
