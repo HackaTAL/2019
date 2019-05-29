@@ -38,11 +38,9 @@ Le « grand débat national » instauré par le gouvernement début 2019 s’est
 - quantifier, analyser et visualiser les contributions au grand débat national
   - proposer des analyses sémantiques ou discursives des contributions
   - repérer et extraire des arguments structurés dans les contributions du grand débat
-- générer des contributions ou des arguments (à préciser)
-  - générer une proposition (phrase) à partir d’indices (mots, thème, opinion)
-  - générer une contribution argumentative à partir d’un ensemble de propositions
-  - générer un résumé à partir d’un ensemble de contributions
-  - générer une contribution avec une contrainte de style (« à la manière de »)
+- générer des contributions ou des résumés
+  - générer une proposition (phrase) à partir d’indices (mots, thèmes, opinions)
+  - générer une synthèse à partir d’un ensemble de contributions
 
 *Ressources*
 
