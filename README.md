@@ -99,7 +99,7 @@ Lors du hackathon, 2 défis seront proposés :
 
 ### Prix
 
-Un panier de spécialités toulousaines (liquides et solides) sera offert aux meilleures équipes (vote des participants et organisateurs)
+Un panier de spécialités toulousaines solides et liquides sera offert aux meilleures équipes (vote des participants et organisateurs)
 
 ### Planning prévisionnel
 
