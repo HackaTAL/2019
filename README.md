@@ -110,7 +110,7 @@ Un panier de spécialités toulousaines solides et liquides sera offert aux meil
 - 15h-18h : développements en équipes
 - 18h-19h : présentations invitées
 - 19h-21h : cocktail (PFIA) développements en équipes
-- 21h-??? : soirée dev chez Synapse (7 boulevard de la Gare, 31500 Toulouse)
+- 21h-00h : soirée dev chez Synapse (7 boulevard de la Gare, 31500 Toulouse)
 
 **Mardi 2 juillet**
 
