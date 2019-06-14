@@ -54,7 +54,7 @@ Le « grand débat national » instauré par le gouvernement début 2019 s’est
 - Analyses existantes
   - Observatoire des débats (GIS Démocratie et Participation, ICPC, CEVIPOF) https://observdebats.hypotheses.org
   - Cartographies : Cartolabe (INRIA,  Paris-Saclay, CNRS) https://cartolabe-dev.lri.fr/map/debatt et Politoscope (CNRS) https://politoscope.org/le-politoscope
-  - Annotations collaboratives du grand débat: https://grandeannotation.fr  et https://github.com/fm89/granddebat 
+  - Annotations collaboratives du grand débat : https://grandeannotation.fr et https://github.com/fm89/granddebat 
   - Projet Grande Lecture (bulles de filtre) : cartes de 100 contributions par circonscription http://www.grande-lecture.fr
   - Witted http://gdn.witted.tech
   - Democratie.app https://www.democratie.app
@@ -94,7 +94,6 @@ Lors du hackathon, 2 défis seront proposés :
 - Droits quotidiens : les fiches en langage juridique clair de  https://www.droitsquotidiens.fr/fr et https://www.droitsquotidiens.be/fr
 - Module de création d’assistant juridique (Seraphin.legal) https://www.legaltech.store/categoriesproduits/legal-bots
 - Technologies  du réseau Legal Tech Lawyer disponibles pendant le hackathon https://www.legaltech.store
-- Projet de chatbot juridique : https://leeally.com/fr
 - Données et contenus juridiques https://www.data.gouv.fr
 
 ### Prix
