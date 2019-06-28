@@ -107,8 +107,8 @@ Un panier de spécialités toulousaines solides et liquides sera offert aux meil
 - 13h-14h : accueil et café (PFIA)
 - 14h-15h : introduction, présentation du hackathon
 - 15h-18h : développements en équipes
-- 18h-19h : présentations invitées
-- 19h- : cocktail (PFIA) développements en équipes
+- 18h-19h : présentations : T. François @UCLouvain, H. de Mazancourt @YSEOP, C. Pradel @Synapse, D. Ketels @DroitsQuotidiens
+- 19h-00h : cocktail (PFIA) développements en équipes
 
 **Mardi 2 juillet**
 
