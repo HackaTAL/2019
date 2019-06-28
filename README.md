@@ -35,12 +35,10 @@ Le « grand débat national » instauré par le gouvernement début 2019 s’est
 
 *Tâches*
 
-- quantifier, analyser et visualiser les contributions au grand débat national
-  - proposer des analyses sémantiques ou discursives des contributions
-  - repérer et extraire des arguments structurés dans les contributions du grand débat
-- générer des contributions ou des résumés
-  - générer une proposition (phrase) à partir d’indices (mots, thèmes, opinions)
-  - générer une synthèse à partir d’un ensemble de contributions
+- Quantifier, analyser et visualiser les contributions au grand débat national
+  - Proposer des analyses sémantiques ou discursives des contributions
+  - Repérer et extraire des arguments structurés dans les contributions du grand débat
+- Générer une synthèse à partir d’un ensemble de contributions
 
 *Ressources*
 
@@ -70,28 +68,21 @@ Ces deux évolutions technologiques permettent aujourd’hui d’envisager le d�
 
 En l'état, comme l'a démontré le premier baromètre sur l'accès au droit du Conseil National des Barreaux, l'émergence de la Legaltech n'a pas encore réellement permis de répondre de renforcer l'accès au droit et à la justice des français.  Le dernier écrivain public vient de prendre sa retraite, il est temps d'utiliser la technologie et les TAL pour fournir un assistant juridique virtuel pour les droits quotidiens des français. 
 
-Lors du hackathon, 2 défis seront proposés :
-
-- A partir des cas d'usages rencontrés par les acteurs de terrain de la médiation numérique (https://lamednum.coop) en matière d'accès au droit et avec les ressources mises à disposition par les partenaires du hackathon, créer un chatbot "écrivain public"
-- À partir des cas d'usage rencontrés par les acteurs de l'innovation numérique et des ressources mises à disposition par les partenaires du hackathon, créer un chatbot sur les thématiques du droit des données et de la propriété intellectuelle. Ce deuxième défi trouvera une suite dans le Legal Hackathon organisé par l'ADIJ en septembre 2019 pour la création d'un code des activités numériques (http://www.adij.fr/code-activites-du-numerique-contributions/)
-
 *Tâches*
 
-- agent qui aide à la recherche d’informations juridiques et à la fourniture d'une information juridique personnalisée sur des besoins de la vie quotidienne (personnes en situation de handicap, parents isolés, droit de la famille, logement...)
-  - détermination du besoin en droit en langage naturel
-  - apporter un premier niveau de réponse à partir de réponses programmées à l'avance (par transformation dynamique de FAQ / forum en arbre décisionnel)
-  - fournir des propositions de références (liens) vers des textes de loi pertinents et fournir un service de traduction automatisée de ces références juridiques en langage juridique "clair"
-  - générer un modèle de courrier pour saisir l'administration et fournir les coordonnées du guichet administratif compétent
-- agent qui répond à des questions des acteurs de l'innovation numérique pour développer un projet dans le respect du droit positif
-  - détermination du cadre juridique applicable en fonction du projet
-  - fournir proposition de références juridiques  (liens) et un service  de création d'un panier pour regrouper le droit applicable à la création d'un projet
-  - fournir proposition de références juridiques  (liens) et un service d'aide à la mise en conformité via la détection de tâches à effectuer ( notamment sur le RGPD et le respect de la propriété intellectuelle des tiers)
-  - générer des documents juridiques à partir des réponses aux questions du chatbot (voir par exemple https://app.aboutinnovation.com/Generateur-CGU, création d'un règlement de hackathon, aide aux choix des licences libres et ouvertes)
+- À partir d'un jeu de données de questions / réponses dans le domaine du droit du travail
+	- Construire un arbre décisionnel permettant de mieux cerner la problématique utilisateur
+	- Apporter automatiquement des ressources à un chatbot interagissant avec un utilisateur pour lui apporter une réponse ou le rediriger vers une source d'information utile à son cas d'usage
+- Créer un chatbot interactif sur une thématique du droit déterminée à partir de cas d'usage personnalisés sur des besoins de la vie quotidienne (droit de la famille, logement, parents isolés, situation de handicap, etc.)
+  - Détermination du besoin en droit en langage naturel et juridiquement "clair"
+  - Apporter un premier niveau de réponse à partir de réponses programmées à l'avance
+  - Fournir des propositions de références (liens) vers des textes de loi pertinents
+  - Générer un modèle de courrier pour saisir l'administration avec les coordonnées du guichet administratif compétent
 
 *Ressources*
 
-- Droit du numérique : http://www.adij.fr/code-activites-du-numerique-contributions
 - Droits quotidiens : les fiches en langage juridique clair de  https://www.droitsquotidiens.fr/fr et https://www.droitsquotidiens.be/fr
+- Droit du numérique : http://www.adij.fr/code-activites-du-numerique-contributions
 - Module de création d’assistant juridique (Seraphin.legal) https://www.legaltech.store/categoriesproduits/legal-bots
 - Technologies  du réseau Legal Tech Lawyer disponibles pendant le hackathon https://www.legaltech.store
 - Données et contenus juridiques https://www.data.gouv.fr
