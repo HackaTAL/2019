@@ -108,7 +108,8 @@ Un panier de spécialités toulousaines solides et liquides sera offert aux meil
 - 14h-15h : introduction, présentation du hackathon
 - 15h-18h : développements en équipes
 - 18h-19h : présentations : T. François @UCLouvain, H. de Mazancourt @YSEOP, C. Pradel @Synapse, D. Ketels @DroitsQuotidiens
-- 19h-00h : cocktail (PFIA) développements en équipes
+- 19h-21h : cocktail (PFIA)
+- 21h-00h : soirée dev chez Synapse (7 boulevard de la Gare, 31500 Toulouse)
 
 **Mardi 2 juillet**
 
@@ -138,6 +139,7 @@ Loïc Grobol (Lattice)
 Didier Ketels (Droits Quotidiens)  
 Charles Leconte (Seraphin.legal)  
 Hugues de Mazancourt (YSEOP)  
+Emilie Merdy (Synapse)  
 Damien Nouvel (ERTIM)  
 Camille Pradel (Synapse)  
 Thomas Saint-Aubin (Seraphin.legal)  
