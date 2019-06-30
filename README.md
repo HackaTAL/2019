@@ -89,7 +89,7 @@ En l'état, comme l'a démontré le premier baromètre sur l'accès au droit du 
 
 ### Prix
 
-Deux prix (YSEOP et Droits Quotidiens) seront décernés, un pour chaque défi. Ce seront des paniers de spécialités toulousaines solides, offerts aux meilleures équipes selon un vote des participants et des organisateurs.
+Deux prix seront décernés, un pour chaque défi : YSEOP pour les analyses du grand débat et Droits Quotidiens pour les chatbots juridiques. Ce seront des paniers de spécialités toulousaines solides, offerts aux meilleures équipes selon un vote des participants et des organisateurs.
 
 ### Planning prévisionnel
 
