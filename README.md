@@ -98,7 +98,8 @@ Un panier de spécialités toulousaines solides et liquides sera offert aux meil
 - 13h-14h : accueil et café (PFIA)
 - 14h-15h : introduction, présentation du hackathon
 - 15h-17h : développements en équipes
-- 17h-18h : T. François @UCLouvain, H. Mazancourt @YSEOP, C. Pradel @Synapse, D. Ketels @DroitsQuotidiens
+- 17h-18h : Présentations
+  - T. François @UCLouvain, H. Mazancourt @YSEOP, C. Pradel @Synapse, D. Ketels @DroitsQuotidiens
 - 18h-20h : cocktail (PFIA)
 - 20h-00h : soirée dev chez Synapse (7 boulevard de la Gare, 31500 Toulouse)
 
