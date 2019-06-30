@@ -89,7 +89,7 @@ En l'état, comme l'a démontré le premier baromètre sur l'accès au droit du 
 
 ### Prix
 
-Un panier de spécialités toulousaines solides et liquides sera offert aux meilleures équipes (vote des participants et organisateurs)
+Deux prix (YSEOP et Droits Quotidiens) seront décernés, un pour chaque défi. Ce seront des paniers de spécialités toulousaines solides, offerts aux meilleures équipes selon un vote des participants et des organisateurs.
 
 ### Planning prévisionnel
 
