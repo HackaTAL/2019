@@ -82,11 +82,25 @@ En l'état, comme l'a démontré le premier baromètre sur l'accès au droit du 
 
 *Ressources*
 
-- Droits quotidiens : les fiches en langage juridique clair de  https://www.droitsquotidiens.fr/fr et https://www.droitsquotidiens.be/fr
-- Droit du numérique : http://www.adij.fr/code-activites-du-numerique-contributions
-- Module de création d’assistant juridique (Seraphin.legal) https://www.legaltech.store/categoriesproduits/legal-bots
-- Technologies  du réseau Legal Tech Lawyer disponibles pendant le hackathon https://www.legaltech.store
-- Données et contenus juridiques https://www.data.gouv.fr
+- Pour le HackaTAL
+  - Fournies par Droits Quotidiens:
+    - 5000 questions posées en droit de la famille et travail à DQ : format XL
+    - 1000 Questions/réponses en droit de la famille et travail : export format Json - Listes des 150 legal techs présentes en France et leur champ d’activités
+    - Forum multiple de discussion
+    - Extrait juritravail
+    - http://helium.lab.parisdescartes.fr:2257/chatbotsjuridiques/
+  - La FAQ de service-public
+    - https://www.service-public.fr/particuliers/vosdroits/questions-reponses
+  - Les fiches pratiques ( plusieurs milliers et notamment thématique logement/famille)
+    - https://www.service-public.fr/P10004
+  - Le lexique des mots clés de la Justice
+    - https://www.data.gouv.fr/fr/datasets/lexique-mots-cles-de-la-justice-30378293/ http://helium.lab.parisdescartes.fr:2257/orga/CorpusJuridique.zip
+- Autre
+  - Droits quotidiens : les fiches en langage juridique clair de  https://www.droitsquotidiens.fr/fr et https://www.droitsquotidiens.be/fr
+  - Droit du numérique : http://www.adij.fr/code-activites-du-numerique-contributions
+  - Module de création d’assistant juridique (Seraphin.legal) https://www.legaltech.store/categoriesproduits/legal-bots
+  - Technologies  du réseau Legal Tech Lawyer disponibles pendant le hackathon https://www.legaltech.store
+  - Données et contenus juridiques https://www.data.gouv.fr
 
 ### Prix
 
