@@ -11,7 +11,7 @@ avec la conférence TALN/PFIA 2019
 
 Tâches : analyses du grand débat / chatbots juridiques  
 Site web : http://hackatal.github.io/2019  
-Dates : 1 et 2 juillet 2019  
+Dates : 1 et 2 juillet 2019, salle J4 (RDC tout au bout)  
 Lieu : Université Toulouse 1 Capitole  
 Inscription : https://forms.gle/eNo8rogN2fWE3xedA (gratuite pr les étudiants / doctorants avant le 9 juin)  
 Fil twitter : https://twitter.com/hashtag/HackaTAL2019  
@@ -125,11 +125,9 @@ Logiciels et données en ligne : https://github.com/HackaTAL/2019
 
 Julien Aligon (IRIT)  
 Manon Cassier (AGORA)  
-Chloé Clavel (Télécom ParisTech)  
 Kevin Deturck (Viseo / ERTIM)  
 Nicolas Dugué (LIUM)  
 Maud Gilet (Seraphin.legal)  
-Gibran Freitas (Seraphin.legal)  
 Loïc Grobol (Lattice)  
 Didier Ketels (Droits Quotidiens)  
 Charles Leconte (Seraphin.legal)  
