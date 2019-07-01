@@ -1,0 +1,3 @@
+T1	Premisse 22 81	les personnes ne semblent plus intéressées par la politique
+T2	Conclusion 83 142	RIC est une bonne chose pour faire participer les personnes
+R1	Lien_logique Arg1:T1 Arg2:T2	

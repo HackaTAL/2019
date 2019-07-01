@@ -1,0 +1,89 @@
+T1	Premisse 448 603	comment intéresser une partie de la population au débat politique alors qu'elle pense "Les élus sont payés pour ça, c'est à eux de trouver les solutions !"
+T2	Conclusion 607 653	RIC pourrait peut-être avoir un effet bénéfice
+T3	Premisse 788 850	instituerait une dictature des émotions totalement manipulable
+T4	Conclusion 728 750	Ne pas accepter le RIC
+T5	Conclusion 1158 1188	Il faut mettre en place un RIC
+T6	Premisse 1193 1265	le RIP tel qu'il est ne sert à rien (jamais utilisé car trop complexe !)
+T7	Connecteur 1189 1192	car
+T8	Premisse 2133 2283	Il faut instaurer tout un système de contre pouvoir pouvant faire pression sous nos élus afin de les faire plier si il ne répondent pas à nos attentes
+T9	Conclusion 2304 2414	les obliger à voter une loi sur le RIC demandé depuis au moins plusieurs mois ans par LA majorité des Français
+T10	Premisse 3925 3982	la porte ouverte à l'anarchie et au grand n'importe quoi!
+T11	Conclusion 3898 3916	surtout pas le RIC
+T12	Premisse 4877 4940	l'actuel référendum d'initiative partagée est un fiasco complet
+T13	Connecteur 4865 4876	attendu que
+T14	Conclusion 4795 4864	C'est du référendum d'initiative citoyenne dont il doit être question
+T15	Premisse 6325 6366	Ok pour pas de RIC sur une loi non évalué
+T16	Connecteur 6368 6372	Donc
+T17	Conclusion 6373 6428	évaluation de toutes les lois à deux ans d'applications
+T18	Premisse 6962 7049	la constitution actuelle n'est plus adaptée au besoin d'expression permanente du peuple
+T19	Premisse 7154 7252	le peuple doit pouvoir s'exprimer au cours d'une mandature et l'on doit tenir compte de sa volonté
+T20	Conclusion 6889 6960	Rédaction et soumission au peuple d'une nouvelle constitution (la 6ème)
+R1	Lien_logique Arg1:T18 Arg2:T20	
+T21	Connecteur 7051 7055	Donc
+T22	Conclusion 7057 7152	nouvelle constitution intermédiaire entre la démocratie représentative et la démocratie directe
+R2	Lien_logique Arg1:T18 Arg2:T22	
+T23	Conclusion 8429 8597	Il est très important qu'il y ait des contre-pouvoirs. Un démocratie plus participative serait aussi une solution, avec le référendum d'initiative citoyenne par exemple
+T24	Premisse 7764 8427	Un régime plus parlementaire et moins présidentiel serait la meilleure manière pour que les citoyens se sentent plus représentés et donc ils seraient plus participatifs. Il faudrait donner plus de pouvoir au Parlement et moins au Président. Je pense d'ailleurs que le Président ne devrait pas prendre la parole devant le Parlement réuni en Congrès. Cela ne sert qu'à faire la promotion du Président et n'a aucun intérêt pour le pays. Le Président ne devrait pas non plus présider au Conseil des Ministres. Le Président n'a pas de pouvoir exécutif, c'est le pouvoir du gouvernement. Le pouvoir ne peut rester concentré en une seule personne (ou quelques personnes)
+T25	Premisse 9625 9673	Le peuple est le souverain dans notre république
+T26	Conclusion 9675 9736	il n'a donc pas à passer nécessairement par ses représentants
+T27	Premisse 10290 10375	On peut faire en sorte que le RIP ait une portée plus nationale sur un sujet national
+T28	Conclusion 10221 10288	En tout cas, inutile a priori, de créer un nouveau réferendum (RIC)
+T29	Conclusion 10382 10480	le réferendum RIP ou RIC n'est pas une bonne solution et ne peut concerner que de rares situations
+T30	Premisse 10807 10897	Les manipulations médiatiques montrent des personnes non représentatives peuvent être élus
+T31	Connecteur 10899 10903	donc
+T32	Conclusion 10904 11040	je n'aurais confiance que quand je aurais le pouvoir de révoquer des élus par l'intermédiaire du RIC au niveau Local mais aussi national
+T33	Premisse 12235 12371	Je ne pense pas nécessaire de faire plus que ce qui existe ; il y a le referendum, mais qu'il ne faut pas utiliser à tout bout de champs
+T34	Conclusion 12373 12401	Le fameux RIC est une utopie
+T35	Premisse 12403 12486	Le grand débat a eu lieu en 2017 pour les élections présidentielles et législatives
+T36	Premisse 12537 12685	Nous sommes dans une démocratie représentative. De plus, cela coûterait cher, et les gens qui veulent ce RIC, veulent que l'on réduise les impôts...
+T37	Premisse 12694 12736	Les élus sont censés représenter le peuple
+T38	Conclusion 12738 12797	C'est donc réduire la démocratie que de réduire leur nombre
+T39	Premisse 12799 12947	Par contre, il faut impérativement que les citoyens puissent avoir un réel contrôle sur eux, notamment à l'aide du référendum d'initiative citoyenne
+T40	Connecteur 12949 12957	et ainsi
+T41	Conclusion 12959 13060	qu'ils restent ce qu'ils devraient être, c'est à dire des employés du peuple et non pas leurs maîtres
+R3	Lien_logique Arg1:T40 Arg2:T39	
+R4	Lien_logique Arg1:T40 Arg2:T41	
+R5	Lien_logique Arg1:T37 Arg2:T38	
+T42	Premisse 13839 14081	Le Référendum d'Initiative Citoyenne est un complément pertinent à la participation des citoyens. Reste qu'il est à manier avec précaution car les enjeux politiques font que les résultats ne répondent pas toujours vraiment à la question posée
+T43	Conclusion 14083 14216	La signature de 10 à 15 % des électeurs est sans doute nécessaire pour garantir que les demandes de référendum sont d'intérêt général
+T44	Conclusion 14230 14419	la formule du Référendum d'Initiative Citoyenne est à mettre en place à tous les niveaux d'administration, de la commune à l'Etat, en fonction de la portée territoriale des questions posées
+T45	Premisse 15051 15418	déjà respecter leur votes, pas comme le référendum sur la constitution européenne et encore sur l aéroport de notre dame des landes qui n ont pas été respecter, le principe de la démocratie c est le référendum, la le citoyen décide, élire des maitres c est déposséder les citoyens du droits de décider, donc c est normal aux bout d un moment ont a plus envie de voter
+T46	Conclusion 15420 15490	le RIC est la meilleurs solution a mais yeux pour ressoude se problème
+T47	Premisse 15492 15602	la démocratie c est déjà la dictature de la majorité, en France c est une minorité qui gouverne est ce normal?
+T48	Conclusion 15824 15859	Je suis défavorable au RIC ou autre
+T49	Connecteur 15860 15863	car
+T50	Premisse 15864 16013	comment se prononcer sur un point précis sans connaitre tout le contexte. C'est facile de demander des choses sans savoir comment on fait ou qui paie
+T51	Premisse 16702 16875	Il faudrait que ces groupes de réflexion de quartier soient systématiquement associés par les municipalités aux décisions à prendre, pour qu'ils émettent un avis consultatif
+T52	Conclusion 16568 16700	On pourrait ajouter à ces RIC la participation à des groupements de quartier qui existent déjà mais qui sont insuffisamment utilisés
+T53	Conclusion 17892 17991	Éviter donc une question unique. N'y recourir que très exceptionnellement sur des sujets de société
+T54	Premisse 17801 17890	Le RIC semble être une idée acceptable à condition de ne pas le transformer en plebiscite
+T55	Premisse 19395 19443	est la porte à toutes les dérives et les délires
+T56	Conclusion 19377 19390	éviter le RIC
+T57	Connecteur 19391 19394	qui
+T58	Premisse 19533 19988	Emmanuel Macron a été élu pour faire de la politique autrement et peut-être était-ce son intention. Mais il a trouvé après son élection un Parlement inexpérimenté, éloigné du terrain mais franchement à sa botte que les français ont fait la bêtise d'élire (ou de laisser élire avec l'abstention, le vote blanc ou nul). Avec sa présidence "jupitérienne", il a supprimé tout ce qui le gênait et aujourd'hui les Gilets Jaunes n'attendent de réponse que de lui
+T59	Conclusion 19990 20140	Il est temps de rendre du poids réel au Parlement et le RIC (malgré les intentions des Gilets Jaunes) majore le poids du Président (Macron ou un autre
+T60	Premisse 20305 20496	L'Europe a fait des préconisations. Pourquoi ne pas les mettre en route ? De nombreux pays utilisent sur différentes formes le référendum. Il faut s'inspirer des états où cela marche le mieux
+T61	Conclusion 20212 20303	Je suis pour la mise en place d'un RIC ou d'un RIP mais pas pour n'importe qu'elle question
+T62	Premisse 21531 21572	Un état a besoin de stabilité et de temps
+T63	Conclusion 21468 21529	On ne fait pas de politique dans l'émotion et l'instantanéité
+R6	Lien_logique Arg1:T62 Arg2:T63	
+T64	Premisse 21804 21845	trop risqué pour l'équilibre démocratique
+T65	Conclusion 21764 21802	Inenvisageable avec 100 000 signatures
+T66	Premisse 22841 22897	Leur rôle est abstrait, ils ne servent pas à grand-chose
+T67	Conclusion 22899 22960	Il faut se servir du RIC pour faire approuver leurs décisions
+T68	Premisse 23052 23535	On ne dirige pas un pays comme la France de la même manière qu'un canton suisse. Le choix binaire du référendum est très réducteur. Je préfère nettement les débats parlementaires, plus réfléchis et moins manipulable que l'opinion versatile. Je me méfie des mouvements de masse qui sont souvent entraînés complètement ailleurs que ce que chacun ferait individuellement. On sait très bien que les tribunaux populaires châtient beaucoup plus sévèrement que les tribunaux institutionnels
+T69	Conclusion 22970 23050	Je suis particulièrement opposé au principe du référendum d'initiative citoyenne
+T70	Premisse 24266 24667	Il faut décentraliser l'Etat au profit des collectivités locales en supprimant les doublons de compétence. Il faut associer les organisations syndicales et les collectivités locales dans la mise n place d'un nouveau pacte social et territorial. Il est nécéssaire d'inventer de nouveaux modes de participation citoyenne; il faut organiser une véritable consultation citoyenne avant des choix importants
+T71	Conclusion 24669 24951	cela pourrait passer par l'intauration d'un véritable RIC à condition que la réponse ne puisse être que " oui" ou "non" et qu'il soit légitimé par le conseil consttutionnel. Cela peut aussi passer par la systématisation du recours à des jurys ou assemblées de citoyens tirés au sort
+T72	Premisse 24954 25104	l faut saisir la révolte des "gilets jaunes" pour introduire la possibilité que les citoyens puissent s'exprimer dans l'intervalle entre les élections
+T73	Premisse 25151 25624	il ne permet pas de réél débat, où les gens qui réclament qlqch se projettent aussi sur la faisabilité et les modalités d'exécution ( ex le Brexit!). C'est trop facile de dire "je veux" sans réfléchir à "comment on fait". L'exemple Suisse n'est pas si mirobolant, les referendums monopolisent beaucoup d'energie de "votation", souvent portés par des groupes lobbyistes, partisants, qui renouvellent quelques temps après les même sujets même si la majorité les avait débouté
+T74	Conclusion 25114 25149	Le RIC ne me satisfait pas vraiment
+T75	Premisse 26221 26317	Les gens sont désintéressés car trahi par la classe politique quelque soit le bord depuis 40 ans
+T76	Conclusion 26319 26517	pour augmenter la participation il faut mettre en p'ace un référendum d'initiative citoyenne afin qu'ils puissent réellement participer au lieu de voter une fois tous les 5 ans pour des incompétents
+T77	Premisse 26618 26680	rendrait la France ingouvernable et rappeler que le RIP existe
+T78	Conclusion 26589 26613	efuser absolument le RIC
+T79	Premisse 26877 26940	Redonner du pouvoir au peuple, autre que le seul droit de grève
+T80	Premisse 27022 27451	Les rapports des institutions doivent être vulgarisés par des infographies claires afin de donner des informations pertinentes aux citoyens. Exemple : en regardant la courbe des accidents mortels sur les routes, on peut se demander l'utilité de la couteuse décision des 80km/h sur les routes, sachant que le ministère de l'environnement avait clairement mentionné dans son rapport l'inutilité climato-économique de cette décision
+T81	Conclusion 26942 27020	Référendum d'initiative citoyenne, et prise en compte des pétitions citoyennes
+T82	Premisse 27461 27527	Cet outil ne sert à rien, il n'est pas à l'initiative des citoyens
+T83	Conclusion 27529 27620	Il faut inscrire dans la constitution le référendum d'initiative citoyenne en toute matière

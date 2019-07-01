@@ -1,0 +1,76 @@
+T2	Conclusion 94 144	Mettre en place le RIC même si cela vous fait peur
+T1	Premisse 146 392	Les citoyens sont tout à fait capables de participer aux décisions qui les concernent au premier degré. Le RIP est à l'initiative du parlement donc il y a un gros biais cela est fait encore une fois pour éviter de demander aux citoyens leurs avis
+T3	Premisse 1650 1721	ils ne s'installent pas contre les intérêts de ceux qu'ils représentent
+T5	Connecteur 1642 1649	pour qu
+T4	Conclusion 1613 1641	instaurer un RIC révocatoire
+T7	Conclusion 2395 2467	Suis absolument opposé au RIC tel qu il et demandé par certains francais
+T6	Premisse 2533 2957	On ne peut élire un président, un député, un maire et demander leur destitution 12 mois plus tard et demander encore sa destitution pourquoi pas 12 mois plus tard !!!!!!!!!! Demander un ric parce qu on est anti chasse, anti tauromachie, végétarien, vegan, pour refuser un impot, refuser des taxes et que sais je encore !!! la liste est sans limites!! Notre nation a besoin de stabilité ( se souvenir de la 4 ème république )
+T8	Premisse 2967 3035	Le RIP actuel est une mascarade sans nom : il n'a jamais été utilisé
+T9	Conclusion 3037 3162	Il faut le transformer en RIC sans intervention des élus nationaux (parlement ou sénat) et abaisser le seuil de déclenchement
+T10	Premisse 3282 3352	Vous cahez top les choses au gouvernement au sénat et chez les députés
+T11	Conclusion 3172 3281	Un RIC et que nous puissions nous les citoyens avoir un droit de regard sur l'utilisation des deniers publics
+T13	Conclusion 3365 3428	rendre public et d'accès facile le détail les comptes de l'État
+T14	Connecteur 3429 3437	afin que
+T12	Premisse 3438 3591	chaque citoyen puisse se rendre compte par lui-même comment est dépensé le budget de l'État, avec les critères qui ont motivé l'affectation de la dépense
+R1	Lien_logique Arg1:T14 Arg2:T13	
+R2	Lien_logique Arg1:T14 Arg2:T12	
+T15	Premisse 5262 5368	Quand on voit la corruption évidente d'une quasi totalité des députés, on ne peut pas leur faire confiance
+T16	Conclusion 5188 5260	Le Referendum d'Initiative Citoyenne est plus bien efficace et pertinent
+T17	Premisse 6247 6330	La démocratie directe peut conduire à bien des dérives. Le populisme n'est pas loin
+T18	Conclusion 6190 6245	Attention au RIC qui contient en germe bien des dérives
+T19	Premisse 6769 6835	La constitution comprend déjà le Référendum d'initiative populaire
+T20	Conclusion 6721 6767	Ne pas instaurer le RIC ni le vote obligatoire
+R3	Lien_logique Arg1:T19 Arg2:T20	
+T21	Premisse 6661 6719	une andouille reste "une" même si c'est adressé à un homme
+T22	Conclusion 6589 6658	Protéger la langue française et ne pas autoriser l'écriture inclusive
+R4	Lien_logique Arg1:T21 Arg2:T22	
+T23	Premisse 7390 7514	'un RIC va pousser des idées mais pas leur mise en oeuvre. On va se retrouver avec de grandes idées et de grandes déceptions
+T24	Conclusion 7379 7382	Non
+T25	Premisse 7660 7773	le citoyen soit un peu au courant des réformes ou des décisions.juste sonder avant de prendre certaines décisions
+T26	Conclusion 7524 7620	l'état, les collectivités devrait faire plus souvent des sondages d'opinion sur plusieurs sujets
+T27	Premisse 9177 9282	mieux participer aux grandes décisions de la commune ou groupement de commune voire département et région
+T28	Conclusion 9134 9171	Pas de RIC national mais un RIC local
+T29	Connecteur 9172 9176	pour
+T30	Premisse 10206 10303	donner au peuple le pouvoir de révoquer les élus défaillants ou ne respectant pas le mandat donné
+T31	Conclusion 10156 10202	Instituer le référendum d'initiative citoyenne
+T32	Connecteur 10203 10205	et
+T33	Premisse 10335 10403	Maitriser l'influence externe sur les elections ( cas du Brexit .. )
+T34	Conclusion 10313 10331	Surtout pas de RIC
+T35	Premisse 10521 10539	doivent le décider
+T36	Conclusion 10451 10515	Les citoyens ne doivent pas être consulter où va l'argent public
+T37	Premisse 11635 11726	Les insultes des représentants et leur mépris envers les représentés sont les plus pénibles
+T38	Conclusion 11728 11774	Pour lutter contre ça, le RIC est une solution
+T39	Premisse 12579 12670	Vous vous en foutez ! La preuve, vous vous en accommodez sans problème depuis des décennies
+T40	Conclusion 12681 12923	proportionnelle et reconnaissance du vote blanc Il faut créer un Référendum d'Initiative Citoyenne, qui puisse exister c'est-à-dire à partir d' un million de demandes d'inscrits au maximum, et pas seulement sur des sujets financiers ou locaux
+T41	Premisse 12930 12990	vous en avez peur parce que vous avez peur de "votre" peuple
+T42	Connecteur 12925 12929	mais
+R5	Lien_logique Arg1:T42 Arg2:T41	
+R6	Lien_logique Arg1:T42 Arg2:T40	
+T43	Premisse 13267 13362	actuellement ils sont pieds et poings liés d'où un gros désintéressement à toutes les élections
+T44	Conclusion 13209 13256	Instaurer le RIC et les citoyens seront incités
+T45	Premisse 13487 13533	En leur permettant de contribuer aux décisions
+T46	Connecteur 13534 13535	:
+T47	Conclusion 13536 13569	Référendum d'initiative citoyenne
+T48	Conclusion 14370 14443	Le RIC est une utopie avec des taux de participation qui seront ridicules
+T49	Premisse 14449 14649	le citoyen ne veut pas être consulté pour un oui ou un non, il veut confier sereinement l'administration du pays à des spécialistes (amateurs et professionnels) qui défendront ses intérêts avec équité
+T50	Connecteur 14445 14448	car
+R7	Lien_logique Arg1:T50 Arg2:T48	
+R8	Lien_logique Arg1:T50 Arg2:T49	
+T51	Premisse 15949 16037	il réduit des questions (projets de lois) complexe à des choix binaires O/N mal informés
+T52	Conclusion 15870 15946	Le RIC pour sa part est peu compatible avec le parlementarisme représentatif
+T53	Premisse 16106 16265	pourraient remettre en cause les corps constitués, et les decisions deja prises et votées. On a vu ou pouvaient mener ces derives en URSS ou en Amerique latine
+T54	Conclusion 16047 16101	Je suis farouchement opposé au RIC ou à ses varuiantes
+T55	Premisse 16529 16831	Les citoyens sont ecoeurés du comportement des politiques qui une fois élus ne défendent pas les citoyens mais leur propres interets politiques et des dognes maintenant inadaptés Mettre en place la proportionnelle pour les législatives. Les élus doivent être garants/responsables des resultats attendus
+T56	Conclusion 16833 16865	Mise en place du RIC revocatoire
+T57	Premisse 17122 17231	Nous avons une République qui nous protège et a assuré la stabilité et la prospérité du pays depuis longtemps
+T58	Conclusion 17234 17335	Ne la remettons pas en cause avec des initiatives populistes dangereuses et démagogiques comme le RIC
+R9	Lien_logique Arg1:T57 Arg2:T58	
+T59	Premisse 17340 17422	Si elle n'est pas parfaite ,notre démocratie représentative fonctionne plutôt bien
+T60	Conclusion 17425 17598	Ne tombons pas dans le piège dangereux du populisme avec des referendums à tout va ,aucune grande démocratie n 'en a voulu ,même les plus apaisées comme les pays scandinaves
+R10	Lien_logique Arg1:T59 Arg2:T60	
+T61	Premisse 18203 18252	Cela permettrait au peuple de choisir sa destinée
+T62	Conclusion 18121 18201	De plus, je trouve l'idée du Référendum d'Initiative Citoyenne très intéressante
+T63	Conclusion 18820 18843	trouver un juste milieu
+T64	Premisse 18773 18817	Le RIP ce n'est pas assez, le RIC c'est trop
+T65	Premisse 19602 19660	Il y a trop d'abstention surtout chez les jeunes électeurs
+T66	Conclusion 19662 19771	Je pense que le RIC portant sur des sujets sociétaux, environnementaux...pourrait inciter les jeunes à voter.
