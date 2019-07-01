@@ -15,7 +15,7 @@ Dates : 1 et 2 juillet 2019, salle J4 (RDC tout au bout)
 Lieu : Université Toulouse 1 Capitole  
 Inscription : https://forms.gle/eNo8rogN2fWE3xedA (gratuite pr les étudiants / doctorants avant le 9 juin)  
 Fil twitter : https://twitter.com/hashtag/HackaTAL2019  
-Slack : http://hackatalgroupe.slack.com
+Slack : https://join.slack.com/t/hackatalgroupe/shared_invite/enQtNjgzMTU5MzE4MTAzLTZkMTU1OWFkYTMwYWVlNjVhNTc2YWY2OWU2NWE2MTRkMjg4ZTk2ODkyZTZiNTk1YmFmZGY4ZWUxZWYxMWVmMzY
 
 ### Le HackaTAL
 
@@ -89,12 +89,14 @@ En l'état, comme l'a démontré le premier baromètre sur l'accès au droit du 
     - Forum multiple de discussion
     - Extrait juritravail
     - http://helium.lab.parisdescartes.fr:2257/chatbotsjuridiques/
+  - Corpus juridique (JuriTravail Iris)
+    - http://helium.lab.parisdescartes.fr:2257/chatbotsjuridiques/CorpusJuridique.zip
   - La FAQ de service-public
     - https://www.service-public.fr/particuliers/vosdroits/questions-reponses
   - Les fiches pratiques ( plusieurs milliers et notamment thématique logement/famille)
     - https://www.service-public.fr/P10004
   - Le lexique des mots clés de la Justice
-    - https://www.data.gouv.fr/fr/datasets/lexique-mots-cles-de-la-justice-30378293/ http://helium.lab.parisdescartes.fr:2257/orga/CorpusJuridique.zip
+    - https://www.data.gouv.fr/fr/datasets/lexique-mots-cles-de-la-justice-30378293/
 - Autre
   - Droits quotidiens : les fiches en langage juridique clair de  https://www.droitsquotidiens.fr/fr et https://www.droitsquotidiens.be/fr
   - Droit du numérique : http://www.adij.fr/code-activites-du-numerique-contributions
