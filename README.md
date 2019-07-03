@@ -9,13 +9,14 @@ avec la conférence TALN/PFIA 2019
 
 ### Résumé
 
+**Restitution et conclusion** : **Amphi F** à 16h15 (Université Toulouse 1 Capitole  )
 Tâches : analyses du grand débat / chatbots juridiques  
 Site web : http://hackatal.github.io/2019  
 Dates : 1 et 2 juillet 2019, salle J4 (RDC tout au bout)  
 Lieu : Université Toulouse 1 Capitole  
 Inscription : https://forms.gle/eNo8rogN2fWE3xedA (gratuite pr les étudiants / doctorants avant le 9 juin)  
 Fil twitter : https://twitter.com/hashtag/HackaTAL2019  
-Slack : https://join.slack.com/t/hackatalgroupe/shared_invite/enQtNjgzMTU5MzE4MTAzLTZkMTU1OWFkYTMwYWVlNjVhNTc2YWY2OWU2NWE2MTRkMjg4ZTk2ODkyZTZiNTk1YmFmZGY4ZWUxZWYxMWVmMzY
+Slack : [cliquez ici !](https://join.slack.com/t/hackatalgroupe/shared_invite/enQtNjgzMTU5MzE4MTAzLTZkMTU1OWFkYTMwYWVlNjVhNTc2YWY2OWU2NWE2MTRkMjg4ZTk2ODkyZTZiNTk1YmFmZGY4ZWUxZWYxMWVmMzY)  
 
 ### Le HackaTAL
 
@@ -147,7 +148,6 @@ Nicolas Dugué (LIUM)
 Maud Gilet (Seraphin.legal)  
 Loïc Grobol (Lattice)  
 Didier Ketels (Droits Quotidiens)  
-Charles Leconte (Seraphin.legal)  
 Hugues de Mazancourt (YSEOP)  
 Emilie Merdy (Synapse)  
 Damien Nouvel (ERTIM)  
